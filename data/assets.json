@@ -3,7 +3,7 @@
 		"url": "https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz",
 		"purpose": "flower"
 	}, {
-		"url": "https://github.com/IBM/wmla-assets/raw/master/dli-learning-path/datasets/pytorch-mnist-dataset.zip",
+		"url": "http://130.198.8.114/artifactory/example-repo-local/pytorch-mnist-dataset.zip",
 		"purpose": "mnist"
 	}]
 }
